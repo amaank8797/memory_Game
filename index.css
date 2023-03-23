@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./resourse/El\ Tunel\ del\ Tiempo.gif)
+    
+}
+.w1 {    
+    font-weight:900;
+    font-size: 100px;
+    color: white;    
+}
+.w2 {
+    font-weight:900;
+    font-size: 70px;
+    color:white;
+}
+a:Link {
+    font-size: 50px;
+    text-decoration: none;
+}
+h2:hover{
+    zoom: 120%;
+}
+h2 {
+    font-weight:900;
+    color: #2bfb01;
+}

@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/resourse/vecteezy_triangle-neon-loop-video-background_7538946_847_AdobeExpress.gif);
+}
+#level-title {
+    font-family: 'Press Start 2P',cursive;
+    font-size: 3rem;
+    margin: 5%;
+    color: #fef2bf;
+}
+.instruction{
+    font-family: 'Press Start 2P',cursive;
+    font-size: 1rem;
+    margin: 5%;
+    color: #fef2bf;
+}
+.close{
+    font-family: 'Press Start 2P',cursive;
+    font-size: 1rem;
+    margin: 5%;
+    color: #fef2bf;
+}
+.back{
+    font-family: 'Press Start 2P',cursive;
+    font-size: 1rem;
+    margin: 4% 5% 4% 5%;
+    color: #fef2bf;
+}
+.back:hover{
+    zoom: 120%;
+}
+.close{
+    font-family: 'Press Start 2P',cursive;
+    font-size: 1rem;
+    margin: 4% 5% 4% 5%;
+    color: #fef2bf;
+}
+.close:hover{
+    zoom: 120%;
+}
+a:Link {
+    text-decoration: none;
+}

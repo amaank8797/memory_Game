@@ -1,0 +1,110 @@
+body {
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/resourse/vecteezy_triangle-neon-loop-video-background_7538946_847_AdobeExpress.gif);
+}
+
+#level-title {
+    font-family: 'Press Start 2P',cursive;
+    font-size: 3rem;
+    margin: 4% 5% 2% 5%;
+    
+    color: #fef2bf;
+}
+
+.instruction{
+    font-family: 'Press Start 2P',cursive;
+    font-size: 1rem;
+    margin: 3% 5% 4% 5%;
+    color: #fef2bf;
+}
+.instruction:hover{
+    zoom: 120%;
+}
+.close{
+    font-family: 'Press Start 2P',cursive;
+    font-size: 1rem;
+    margin: 3% 5% 4% 5%;
+    color: #fef2bf;
+}
+.close:hover{
+    zoom: 120%;
+}
+
+.container{
+    display: block;
+    width: 50%;
+    margin:auto;
+}
+
+.btn {
+    margin: 20px;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    border: 6px solid black;
+    border-radius: 15%;
+}
+
+.game-over {
+    background-color: red;
+    opacity: 0.8;
+}
+
+.red {
+    background-color: red;
+}
+
+
+.green {
+    background-color: rgb(19, 204, 9);
+}
+
+.blue {
+    background-color: rgb(13, 13, 216);
+}
+
+.yellow{
+    background-color: yellow;
+}
+.p1 {
+    color: blue;
+    font-size: xx-large;
+    font-weight:bolder;
+    margin-top: 85px;
+}
+.p2 {
+    color: yellow;
+    font-size: xx-large;
+    font-weight:bolder;
+    margin-top: 85px;
+}
+.p3 {
+    color: red;
+    font-size: xx-large;
+    font-weight:bolder;
+    margin-top: 85px;
+}
+.p4 {
+
+    color: rgb(190, 249, 101);
+    font-size: xx-large;
+    font-weight:bolder;
+    margin-top: 85px;
+}
+.pressed {
+    box-shadow: 0 0 20px white;
+    background-color: grey;
+}
+
+a:Link {
+    text-decoration: none;
+}
+
+footer{
+    color: #fef2bf;
+    font-family: cursive;
+
+}
+
